@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "platform-vault": {
+      "type": "http",
+      "url": "http://188.166.61.194:3000/mcp",
+      "headers": {
+        "Authorization": "Bearer sk-gw-vp4V4SsASRoMApEOElqDJKIyxJ28VZOlDlv6f2FZ"
+      }
+    }
+  }
+}
